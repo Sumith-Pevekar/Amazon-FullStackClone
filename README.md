@@ -1,6 +1,6 @@
 Amazon Clone using React, Nodejs, Firebase, Stripe Payment
 
-Deployment: https://challenge-e579f.firebaseapp.com/
+Deployment: https://challenge-e579f.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
